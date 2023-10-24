@@ -1,0 +1,22 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+  }
+  
+  .topnav { 
+    overflow: hidden;
+    background-color: #adb6a5;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #2e2c2c;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;}
